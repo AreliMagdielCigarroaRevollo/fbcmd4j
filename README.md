@@ -51,6 +51,7 @@ git clone https://github.com/arelimagdielcigarroarevollo/fbcmd4j
 ## Créditos
 Desarrollado por:
 - **AL02829156** Areli Magdiel Cigarroa Revollo
+Jose Manuel jm66
 
 
 ## Licencia
